@@ -1,0 +1,2 @@
+# palingbaru
+safelinkbarulagi.js
